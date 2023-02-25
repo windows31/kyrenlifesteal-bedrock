@@ -1,0 +1,9 @@
+{
+  "resource_pack_name": "geyser_custom",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "gmdl_6e7c97d": {
+      "textures": "textures/geyser/geyser_custom/minecraft/item/red_heart"
+    }
+  }
+}
