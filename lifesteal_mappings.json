@@ -1,0 +1,13 @@
+{
+  "format_version": "1",
+  "items": {
+    "minecraft:fermented_spider_eye": [
+      {
+        "name": "gmdl_6e7c97d",
+        "allow_offhand": true,
+        "icon": "gmdl_6e7c97d",
+        "custom_model_data": 223
+      }
+    ]
+  }
+}
